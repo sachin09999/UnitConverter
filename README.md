@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/619110ab-d83d-48b4-9833-8e7c82bee04f)
+
+
 This app, built with Jetpack Compose and Kotlin, simplifies unit conversions across various categories. It offers a user-friendly interface to effortlessly convert:
 
 Temperature: Celsius, Fahrenheit, Kelvin
