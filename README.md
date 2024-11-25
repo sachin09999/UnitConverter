@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/619110ab-d83d-48b4-9833-8e7c82bee04f)
+![image](https://github.com/user-attachments/assets/619110ab-d83d-48b4-9833-8e7c82bee04f)  ![image](https://github.com/user-attachments/assets/2629694e-1e20-426a-8406-a50eb83ec195)
+
 
 
 This app, built with Jetpack Compose and Kotlin, simplifies unit conversions across various categories. It offers a user-friendly interface to effortlessly convert:
